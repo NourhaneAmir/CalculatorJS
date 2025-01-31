@@ -1,9 +1,9 @@
 input{
-    width: 80%;
+    width: 60%;
     padding: 8px;
     color: black;
     border: none;
-    background-color: rgb(215, 214, 213);
+    background-color: rgb(240, 175, 245);
     border-radius: 18px;
     place-items: center;
 }

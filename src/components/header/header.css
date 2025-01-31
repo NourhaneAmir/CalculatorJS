@@ -9,6 +9,7 @@ header{
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
+    color: rgb(193, 0, 207);
     font-size: 24px;
     font-weight: 600;
 }
