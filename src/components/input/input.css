@@ -1,0 +1,9 @@
+input{
+    width: 80%;
+    padding: 8px;
+    color: black;
+    border: none;
+    background-color: rgb(215, 214, 213);
+    border-radius: 18px;
+    place-items: center;
+}

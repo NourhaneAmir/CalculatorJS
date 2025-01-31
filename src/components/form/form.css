@@ -1,0 +1,29 @@
+form {
+    width: 90%;
+    place-self: center;
+    color: black;
+    background-color: aliceblue;
+    display: grid;
+    place-items: center;
+    height: calc(100vh - 220px);
+}
+
+form div {
+    display: flex;
+    color: black;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    gap: 16px;
+    border-radius: 8px;
+    border: solid black 1px;
+    width: 80%;
+}
+
+h2{
+    border-bottom: solid 1px black;
+    color: black;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 16px;
+}
